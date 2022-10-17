@@ -1,0 +1,26 @@
+.music-list__elements {
+    width: 100%;
+    height: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.elements-photo {
+    width: 70px;
+    height: 70px;
+    border-radius: 5px;
+}
+.elements-infrom{
+   width: 160px;
+    display: flex;
+   flex-direction: column;
+   align-items: start;
+}
+.elements-singer {
+    font-size: 3px;
+    color: rgb(162, 162, 162);
+    margin-bottom: 20px;
+}
+.color-gray {
+    color: gray;
+}
